@@ -347,7 +347,7 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-y",
           "_params": {
-            "imageSize": "42",
+            "imageSize": "38",
             "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
@@ -552,6 +552,16 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/30174849-creative-idea-in-bulb-shape-as-inspiration-concept-icon-vector-illustration-stock-vector-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/30174849-creative-idea-in-bulb-shape-as-inspiration-concept-icon-vector-illustration-stock-vector-2000x2000.jpg",
+                "caption": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Idea <br>&nbsp; &nbsp; &nbsp; (Engine of the Company)",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-06-13-12-14-57-155-com-2000x1988-800x795.jpg",
                 "image": "@PROJECT_PATH@/assets/images/screenshot-2017-06-13-12-14-57-155-com-2000x1988.jpg",
                 "caption": "&nbsp; &nbsp; &nbsp; &nbsp;DEEPANSHU SHARMA &nbsp;<br>&nbsp; &nbsp; (Chief Executive Officer)",
@@ -575,16 +585,6 @@
                 "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-06-13-14-12-15-806-com-2000x1988-800x795.jpg",
                 "image": "@PROJECT_PATH@/assets/images/screenshot-2017-06-13-14-12-15-806-com-2000x1988.jpg",
                 "caption": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; JISHIN P JIJJY<br>&nbsp; &nbsp;(Chief Technical Officer)",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/30174849-creative-idea-in-bulb-shape-as-inspiration-concept-icon-vector-illustration-stock-vector-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/30174849-creative-idea-in-bulb-shape-as-inspiration-concept-icon-vector-illustration-stock-vector-2000x2000.jpg",
-                "caption": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Idea <br>&nbsp; &nbsp; &nbsp; (Engine of the Company)",
                 "active": true
               }
             ],
@@ -670,9 +670,10 @@
               "name": "letter",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "#",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
           "title1": "visit.lazygeeks@gmail.com",
@@ -686,12 +687,13 @@
               "name": "pin",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "#",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
-          "title2": "Amity School Of Engineering And Technology",
+          "title2": "Lazy Geeks Hub",
           "subtitle2": "",
           "caption2": "",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
