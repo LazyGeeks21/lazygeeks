@@ -162,7 +162,7 @@
               "authorBio": "User"
             },
             {
-              "text": "Along with development, we at Lazy Geeks highlight the importance of learning and stepping ahead each and every day and overcoming all the obstacles that come across our life. We intend to help each and everyone out there in every sector with the power of technology and ideas that we Lazy yet Geeky People have.",
+              "text": "Along with development, we at Lazy Geeks highlight the importance of learning and stepping ahead each and every day and overcoming all the obstacles that come across our life. We intend to help each and everyone out there in every sector with the power of technology and ideas that we, Lazy yet Geeky People have.",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
@@ -257,7 +257,7 @@
             "showButton": false
           },
           "title": "Our Work",
-          "text": "<h4>Our work is the only thing which speaks for us in the market.&nbsp;<span style=\"line-height: 1.5; color: inherit;\">Why not to go through them and explore them yourself ?</span></h4><p><br></p>",
+          "text": "<h4>Our work is the primary thing which speaks for us in the market.&nbsp;<span style=\"line-height: 1.5; color: inherit;\">Why not go through and explore them yourself ?</span></h4><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -363,7 +363,7 @@
             }
           },
           "title": "Lazylers - One Stop For &nbsp; &nbsp; &nbsp; Lazy Engineers.",
-          "text": "Explore this astonishing virtual world crafted for the lazy you to turnout as a geeky you.",
+          "text": "Explore this astonishing virtual world crafted for the Lazy You to turnout as a Geeky You.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://lazygeeks21.github.io/sooner/\" data-toolbar=\"-mbrBtnMove\">Explore More</a>"
         },
         {
