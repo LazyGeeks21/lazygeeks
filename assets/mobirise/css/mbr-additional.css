@@ -528,19 +528,19 @@ h6,
 }
 #menu-x .link[aria-expanded="true"],
 #menu-x .dropdown-menu {
-  background: #141414;
+  background: #000000;
 }
 #menu-x .nav-dropdown-sm .link:focus,
 #menu-x .nav-dropdown-sm .link:hover,
 #menu-x .nav-dropdown-sm .dropdown-item:focus,
 #menu-x .nav-dropdown-sm .dropdown-item:hover {
-  background: #262525!important;
+  background: #000000!important;
 }
 #menu-x .navbar,
 #menu-x .nav-dropdown-sm,
 #menu-x .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-x .nav-dropdown-sm .dropdown-menu {
-  background: #2e2d2d;
+  background: #000000;
 }
 #menu-x .bg-color.transparent .link {
   color: #ffffff;

@@ -134,7 +134,7 @@
           "_name": "testimonials3",
           "testimonial": [
             {
-              "text": "We all aspire to grow and learn at every stage of our life. This demands time and devotion that are the key to success. So, we herby stand forth to help you utilize your time effectively &amp; efficiently",
+              "text": "We all aspire to grow and learn at every stage of our life. This demands time and devotion that are the key to success. So, we herby stand forth to help you utilize your time effectively &amp; efficiently.",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face3.jpg",
@@ -841,13 +841,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#141414"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#262525!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#2e2d2d"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -869,7 +869,7 @@
           "_name": "menu",
           "_anchor": "menu-x",
           "_params": {
-            "bgColor": "#2e2d2d",
+            "bgColor": "#000000",
             "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
