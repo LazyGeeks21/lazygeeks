@@ -1,7 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -439,6 +441,9 @@ h6,
 #testimonials3-4 .mbr-author-name {
   color: #ccc;
 }
+#testimonials3-4 .card-block {
+  color: #000000;
+}
 #msg-box8-t .mbr-section-title,
 #msg-box8-t p {
   color: #fff;
@@ -450,11 +455,12 @@ h6,
 #msg-box8-t .lead P {
   font-size: 20px;
 }
-#msg-box2-z .mbr-section-title {
-  color: #fff;
+#msg-box8-t .mbr-section-title {
+  font-size: 60px;
 }
-#msg-box2-z .mbr-section-subtitle {
-  color: #a0a0a0;
+#msg-box8-t .lead H4 {
+  font-size: 23px;
+  font-family: 'Oxygen', sans-serif;
 }
 #header3-l .mbr-section-title,
 #header3-l .mbr-section-subtitle {
@@ -482,13 +488,13 @@ h6,
   border-color: #f2f2f2;
 }
 #form1-h .form-control-label {
-  color: #232323;
+  color: #ffffff;
 }
 #form1-h .mbr-section-title {
-  color: #232323;
+  color: #ffffff;
 }
 #form1-h SMALL {
-  color: #232323;
+  color: #ffffff;
 }
 #menu-x .hide-buttons .nav-btn {
   display: none !important;
@@ -522,19 +528,19 @@ h6,
 }
 #menu-x .link[aria-expanded="true"],
 #menu-x .dropdown-menu {
-  background: #000000;
+  background: #141414;
 }
 #menu-x .nav-dropdown-sm .link:focus,
 #menu-x .nav-dropdown-sm .link:hover,
 #menu-x .nav-dropdown-sm .dropdown-item:focus,
 #menu-x .nav-dropdown-sm .dropdown-item:hover {
-  background: #000000!important;
+  background: #262525!important;
 }
 #menu-x .navbar,
 #menu-x .nav-dropdown-sm,
 #menu-x .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-x .nav-dropdown-sm .dropdown-menu {
-  background: #000000;
+  background: #2e2d2d;
 }
 #menu-x .bg-color.transparent .link {
   color: #ffffff;

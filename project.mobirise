@@ -96,7 +96,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#353434",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -123,6 +123,9 @@
             },
             ".mbr-author-name": {
               "color": "#ccc"
+            },
+            ".card-block": {
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -131,7 +134,7 @@
           "_name": "testimonials3",
           "testimonial": [
             {
-              "text": "We all aspire to grow and learn at every stage of our life. This demands time and devotion that are the key to success. So, We herby stand forth to help you utilize your time effectively.",
+              "text": "We all aspire to grow and learn at every stage of our life. This demands time and devotion that are the key to success. So, we herby stand forth to help you utilize your time effectively &amp; efficiently",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face3.jpg",
@@ -145,7 +148,7 @@
               "authorBio": "User"
             },
             {
-              "text": "Lazy Geeks is a group of technocrats who aim to provide services that are worth your time and space. Our user friendly and efficacious apps will leave an everlasting impact on your life.",
+              "text": "Lazy Geeks is a group of technocrats which aim to provide services that are worth your time and space. Our user friendly and efficacious apps will leave an everlasting impact on your life.",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face1.jpg",
@@ -159,7 +162,7 @@
               "authorBio": "User"
             },
             {
-              "text": "Along with development we at Lazy Geeks highlight the importance of learning and stepping ahead each and every day and overcoming all the obstacles that come across our life. We intend to help each and everyone out there in every sector with the power of technology and ideas that we Lazy yet Geeky People have.",
+              "text": "Along with development, we at Lazy Geeks highlight the importance of learning and stepping ahead each and every day and overcoming all the obstacles that come across our life. We intend to help each and everyone out there in every sector with the power of technology and ideas that we Lazy yet Geeky People have.",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
@@ -204,9 +207,9 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#2e2e2e"
+            "bgColor": "#353434"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#\" data-toolbar=\"-mbrBtnMove\">Follow Our Vision &nbsp;&nbsp;<span class=\"mbri-right mbr-iconfont mbr-iconfont-btn\"></span></a>  <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"https://drive.google.com/file/d/0B5RmyiEIXA7deFFTMFU5Q2FpVUk/view?usp=sharing\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD&nbsp;</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#testimonials3-4\" data-toolbar=\"-mbrBtnMove\">Follow Our Vision &nbsp;&nbsp;<span class=\"mbri-right mbr-iconfont mbr-iconfont-btn\"></span></a>  <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"https://drive.google.com/file/d/0B5RmyiEIXA7deFFTMFU5Q2FpVUk/view?usp=sharing\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD&nbsp;</a>"
         },
         {
           "_styles": {
@@ -219,6 +222,14 @@
             },
             ".lead P": {
               "font-size": "20px"
+            },
+            ".mbr-section-title": {
+              "font-size": "60px"
+            },
+            ".lead H4": {
+              "font-size": "23px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_tags": [
@@ -246,7 +257,7 @@
             "showButton": false
           },
           "title": "Our Work",
-          "text": "<p>Our work is the only thing which speaks for us in the market.&nbsp;<span style=\"line-height: 1.5;\">Why not to go through them and explore them yourself ?</span></p><p><br></p>",
+          "text": "<h4>Our work is the only thing which speaks for us in the market.&nbsp;<span style=\"line-height: 1.5; color: inherit;\">Why not to go through them and explore them yourself ?</span></h4><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -299,46 +310,8 @@
             }
           },
           "title": "Cocoon - &nbsp;Turning Lazy into Professionals",
-          "text": "Dive In To The nourishment shell of professionalism spun By&nbsp;<br>Lazy Geeks.",
+          "text": "Dive in to the nourishment shell of professionalism spun by&nbsp;<br>Lazy Geeks.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://lazygeeks21.github.io/cocoon/\" data-toolbar=\"-mbrBtnMove\">Take Me There</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-z",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": false,
-            "showTitle": false,
-            "showText": false
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
-          "title": "TRENDY WEBSITE BLOCKS",
-          "text": "Cut down the development time with drag-and-drop website builder."
         },
         {
           "_tags": [
@@ -564,7 +537,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-06-13-12-14-57-155-com-2000x1988-800x795.jpg",
                 "image": "@PROJECT_PATH@/assets/images/screenshot-2017-06-13-12-14-57-155-com-2000x1988.jpg",
-                "caption": "&nbsp; &nbsp; &nbsp; &nbsp;DEEPANSHU SHARMA &nbsp;<br>&nbsp; &nbsp; (Chief Executive Officer)",
+                "caption": "&nbsp; &nbsp; &nbsp; &nbsp; DEEPANSHU SHARMA &nbsp;<br>&nbsp; &nbsp; &nbsp; (Chief Executive Officer)",
                 "active": false
               },
               {
@@ -574,7 +547,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-06-13-14-11-32-057-com-2000x1988-800x795.jpg",
                 "image": "@PROJECT_PATH@/assets/images/screenshot-2017-06-13-14-11-32-057-com-2000x1988.jpg",
-                "caption": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;JATIN VERMA<br>&nbsp; &nbsp; &nbsp;(Chief Marketing Officer)",
+                "caption": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; JATIN VERMA<br>&nbsp; &nbsp; &nbsp; &nbsp;(Chief Marketing Officer)",
                 "active": false
               },
               {
@@ -584,7 +557,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-06-13-14-12-15-806-com-2000x1988-800x795.jpg",
                 "image": "@PROJECT_PATH@/assets/images/screenshot-2017-06-13-14-12-15-806-com-2000x1988.jpg",
-                "caption": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; JISHIN P JIJJY<br>&nbsp; &nbsp;(Chief Technical Officer)",
+                "caption": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; JISHIN P JIJY<br>&nbsp; &nbsp; &nbsp; &nbsp; (Chief Technical Officer)",
                 "active": true
               }
             ],
@@ -670,7 +643,7 @@
               "name": "letter",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "#",
+              "link": "sharma.deepanshu97@gmail.com",
               "size": 0,
               "color": "black",
               "newWindow": false
@@ -687,7 +660,7 @@
               "name": "pin",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "#",
+              "link": "https://www.google.co.in/maps/place/Lazy+Geeks/@28.6223777,77.0948722,17z/data=!3m1!4b1!4m5!3m4!1s0x390d04a8b3d1831f:0x8cd0256b17a55719!8m2!3d28.6223777!4d77.0970609?hl=en",
               "size": 0,
               "color": "black",
               "newWindow": false
@@ -765,27 +738,27 @@
           "_name": "form1",
           "_styles": {
             ".form-control-label": {
-              "color": "#232323"
+              "color": "#ffffff"
             },
             ".mbr-section-title": {
-              "color": "#232323"
+              "color": "#ffffff"
             },
             "SMALL": {
-              "color": "#232323"
+              "color": "#ffffff"
             }
           },
           "_anchor": "form1-h",
           "_params": {
-            "labelsColor": "#232323",
+            "labelsColor": "#ffffff",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1289.jpg",
             "bgColor": "#475577",
             "bgColorRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
+            "overlay": true,
+            "overlayOpacity": "0.7",
             "overlayColor": "#222",
             "showTitle": true,
             "showSubTitle": true
@@ -868,13 +841,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#262525!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#2e2d2d"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -896,7 +869,7 @@
           "_name": "menu",
           "_anchor": "menu-x",
           "_params": {
-            "bgColor": "#000000",
+            "bgColor": "#2e2d2d",
             "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -925,7 +898,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-4\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-t\">PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-l\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-j\">CONTACT US</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://lazygeeks21.github.io/whylazygeeks/\" aria-expanded=\"false\">WHY WORK WITH US ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://lazygeeks21.github.io/cocoon/\">COCOON</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\" style=\"font-size: 1rem; text-align: left; display: inline !important;\">LAZYLERS</a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-4\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-t\">PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-l\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-j\">CONTACT US</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://lazygeeks21.github.io/whylazygeeks/\" aria-expanded=\"false\">WHY WORK WITH US ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://lazygeeks21.github.io/cocoon/\">COCOON</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://lazygeeks21.github.io/sooner/\" aria-expanded=\"false\" style=\"font-size: 1rem; text-align: left; display: inline !important;\">LAZYLERS</a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     }
